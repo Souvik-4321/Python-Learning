@@ -1,7 +1,7 @@
 d = {} #Empty dictionary
 marks = {
     "souvik" : 100,
-    "rohit" : 78,
+    "rohit" : 77,
     "govind" : 99,
     "list" : [2,6,9]
 }
