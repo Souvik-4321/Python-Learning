@@ -1,6 +1,6 @@
 # print 0 to 50 using while loop
 i = 0
-while(i<=50):
+while(i<51):
     print(i)
     i+=1
 
