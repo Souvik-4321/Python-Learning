@@ -6,7 +6,7 @@ while(i<51):
 
 #print 100 love you 
 i = 0
-while(i<101):
+while(i<=100):
     print("Love you")
     i+=1
     
